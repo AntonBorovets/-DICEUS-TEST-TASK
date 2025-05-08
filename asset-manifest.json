@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/-DICEUS-TEST-TASK/static/css/main.84a91659.css",
+    "main.js": "/-DICEUS-TEST-TASK/static/js/main.b506b5ac.js",
+    "static/media/logo.png": "/-DICEUS-TEST-TASK/static/media/logo.a59f55d31892a1dd48c4.png",
+    "index.html": "/-DICEUS-TEST-TASK/index.html",
+    "main.84a91659.css.map": "/-DICEUS-TEST-TASK/static/css/main.84a91659.css.map",
+    "main.b506b5ac.js.map": "/-DICEUS-TEST-TASK/static/js/main.b506b5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a91659.css",
+    "static/js/main.b506b5ac.js"
+  ]
+}
