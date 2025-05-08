@@ -1306,3 +1306,7 @@ span {
     padding-left: 15px;
   }
 }
+
+a {
+  text-decoration: none;
+}

@@ -35,7 +35,7 @@ export default function App() {
       <Header />
       <Nav />
       <h3>
-        Dashboard // Accounts // <a>Maritime Logistics Corp</a>
+        Dashboard // Accounts // <a href=" ">Maritime Logistics Corp</a>
       </h3>
       <Main />
       <h2>Perfomance Metrics</h2>

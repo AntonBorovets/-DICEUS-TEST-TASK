@@ -31,7 +31,7 @@ function MainDash() {
           <div className="nav-q">Referrals (3)</div>
         </div>
         <div>
-          <Policies_final />
+          <PolicieFinal />
         </div>
       </div>
       <div className="goals work-q">
@@ -89,7 +89,7 @@ function MainDash() {
   );
 }
 
-function Policies_final() {
+function PolicieFinal() {
   const policiesData = [
     {
       originator: "SM",
