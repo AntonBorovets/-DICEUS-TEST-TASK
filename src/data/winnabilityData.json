@@ -1,0 +1,14 @@
+{
+  "increasing": [
+    { "id": 1, "label": "Brokers relationship", "value": 28 },
+    { "id": 2, "label": "Loss history", "value": 22 },
+    { "id": 3, "label": "Industry growth", "value": 16 },
+    { "id": 4, "label": "Multiline opportunity", "value": 11 }
+  ],
+  "decreasing": [
+    { "id": 1, "label": "Premium pricing", "value": -24 },
+    { "id": 2, "label": "Total exposure", "value": -18 },
+    { "id": 3, "label": "Loss ratio trend", "value": -13 },
+    { "id": 4, "label": "Market competition", "value": -5 }
+  ]
+}

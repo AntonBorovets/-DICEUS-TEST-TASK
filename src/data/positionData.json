@@ -1,0 +1,18 @@
+[
+  {
+    "label": "Marine Cargo",
+    "value": 71.4,
+    "unit": "%",
+    "isYourScore": true
+  },
+  {
+    "label": "General Liability",
+    "value": 20,
+    "unit": "%"
+  },
+  {
+    "label": "Workers Comp",
+    "value": 8.6,
+    "unit": "%"
+  }
+]
